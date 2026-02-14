@@ -4,7 +4,10 @@
   <img src="https://img.shields.io/badge/Available_on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white">
 </a>
 
-# Simple Blood
+<br>
+<br>
+
+![# Simple Blood](https://cdn.modrinth.com/data/cached_images/b6e93d6ab422e767e10e6a3e2207b244d603cd1e.png)
 
 **Enhanced blood particle effects for Minecraft**
 
