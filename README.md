@@ -7,6 +7,8 @@
 <br>
 <br>
 
+<div align="center">
+
 ![# Simple Blood](https://cdn.modrinth.com/data/cached_images/b6e93d6ab422e767e10e6a3e2207b244d603cd1e.png)
 
 <br>
@@ -28,7 +30,20 @@ When entities take damage, they bleed proportionally to the amount dealt. Weak h
 
 <br>
 
-[Report an Issue](https://github.com/Lythroo/Simple-Blood/issues) • [Suggest a Feature](https://github.com/Lythroo/Simple-Blood/issues)
+<table>
+<tr>
+<td width="50%">
+<div style="padding: 15px; background-color: #ffe6e6; border-radius: 8px; text-align: center;">
+<a href="https://github.com/Lythroo/Simple-Blood/issues"><img src="https://img.shields.io/badge/Report-Issue-e74c3c?style=for-the-badge&logo=github" alt="Report Issue"></a>
+</div>
+</td>
+<td width="50%">
+<div style="padding: 15px; background-color: #e6f2ff; border-radius: 8px; text-align: center;">
+<a href="https://github.com/Lythroo/Simple-Blood/issues"><img src="https://img.shields.io/badge/Suggest-Feature-3498db?style=for-the-badge&logo=github" alt="Suggest Feature"></a>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
